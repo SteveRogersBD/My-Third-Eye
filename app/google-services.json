@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79137571552",
+    "firebase_url": "https://smartattendance-523a8-default-rtdb.firebaseio.com",
+    "project_id": "smartattendance-523a8",
+    "storage_bucket": "smartattendance-523a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79137571552:android:5d1f55a142db29cf1e4685",
+        "android_client_info": {
+          "package_name": "com.example.thethirdeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79137571552-kvn1ains5o9v9pt0nce06efa5d3mp36l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sk0ar0fhDDuXH22ugZv_GPt1IKKaWdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79137571552-kvn1ains5o9v9pt0nce06efa5d3mp36l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

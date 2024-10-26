@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Third Eye</string>
+    <string name="apiKey">139578644759-1jh5cvpnbrtsv04niiunoaocssb1rpm8.apps.googleusercontent.com</string>
+    <string name="eye">Your own personalized and customizable eye.</string>
+    <string name="location">Stay safe by sharing location with your favourites.</string>
+    <string name="geofence">Learn about the crime prone areas around you.</string>
+    <string name="cctv">We always got your back.</string>
+    <string name="police">Stay connected with the cops.</string>
+    <string name="Slogan">It is always watching you.</string>
+</resources>

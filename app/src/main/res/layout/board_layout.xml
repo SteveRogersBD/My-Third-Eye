@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/sign_in_bg">
+
+    <!-- Large ImageView occupying most of the screen -->
+
+    <!-- TextView at the bottom for description -->
+    <ImageView
+        android:id="@+id/main_image"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="ABC"
+        android:src="@drawable/cctv"
+        app:tint="#FF5722" />
+
+    <TextView
+        android:id="@+id/title_TV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textSize="34sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Your own personal eye"/>
+</LinearLayout>
